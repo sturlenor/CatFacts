@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CatFacts</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_categories">Categories</string>
+    <string name="random_cat_fact">Get a random cat-fact!</string>
+    <string name="missing_cat">Her shold there have been a cat....</string>
+    <string name="title_share">Share</string>
+</resources>
